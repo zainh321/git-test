@@ -1,3 +1,5 @@
 this is my first file
+more text
 with some more text
-that is used for the new feature
+that is used for the new feature more text
+and even more text
